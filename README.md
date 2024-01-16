@@ -28,8 +28,8 @@ This project is a front-end clone of the Amazon website, showcasing a simplified
 
 Include screenshots or GIFs of your project to showcase its appearance.
 
-![Homepage](screenshots/homepage.png)
-![Product Details](screenshots/product-details.png)
+![Homepage](img/image_2024-01-16_180545103.png)
+![footer](screenshots/product-details.png)
 
 ## Installation
 
