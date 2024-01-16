@@ -26,7 +26,6 @@ This project is a front-end clone of the Amazon website, showcasing a simplified
 
 ## Screenshots
 
-Include screenshots or GIFs of your project to showcase its appearance.
 
 ![Homepage](img/image_2024-01-16_180545103.png)
 ![footer](img/image_2024-01-16_180803697.png)
